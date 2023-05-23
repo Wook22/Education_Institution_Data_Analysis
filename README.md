@@ -1,1 +1,1 @@
-# Wook22-UCB-Bootcamp-Porject1
+# Wook22-UCB-Bootcamp-Project1
