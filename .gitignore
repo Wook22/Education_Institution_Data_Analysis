@@ -1,2 +1,7 @@
 data/MERGED2021_22_PP.csv
 api_keys.py
+data/school_location.csv
+data/school_type.csv
+data/school_ethnicity.csv
+data/school_major.csv
+data/school_financial.csv
