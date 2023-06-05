@@ -143,13 +143,12 @@ The Choropleth shows visualizes the different cost of admissions across all the 
 
 ### Is there a significant difference in cost for public and private colleges?
 
+![piechart](images/OpenvsNonOpen.png)
+
 During the data exploration for public and private colleges we found a new factor called open admission policy for the colleges. On analyzing we found that 64% of all the colleges in the USA have open admission policy. So we included that factor in our admission cost analysis. These are the findings from our analysis.
 The average admission cost of public colleges are lower than private colleges
 Colleges with open admission policy have average admission cost lower than those who do not have open admission policy.
 Based on the t-test conducted it is concluded that these differences are significant.
-
-
-![piechart](images/OpenvsNonOpen.png)
 
 ![barplot](images/Cost.png)
 
