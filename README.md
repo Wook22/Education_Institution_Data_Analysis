@@ -1,5 +1,5 @@
 # Education Institution Data Analysis
-## A Comprehensive Analysis of Admission Cost, Diversity and Academic Offerings
+## $$"A Comprehensive Analysis of Admission Cost, Diversity and Academic Offerings"$$
 
 ![school](images/school.jpg)
 
