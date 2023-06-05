@@ -119,11 +119,28 @@ The ethnicity distribution analysis shows highest enrollment of white 46.7% foll
 The pie chart of gender distribution shows highest number of women 64.9% enrolled whereas enrolled men were 35.11%. 
 
 
-## Analysis
+## Geospatial Visualization Analysis
+### How are different institution types spread out across the United States?
+![geoplot1](images/Public_School_Map.png)
 
-![geoplot1](images/plot1.png)
+![geoplot2](images/Private_School_Map.png)
 
-![geoplot2](images/plot2.png)
+The visualizations represented above show the locations of different college institutions across the US. The first graph is off the public institutions across the US and the second graph shows the private institutions plotted in red. Their sizes and transparancy are relative to their cost of admission. 
+
+It should be noted all the US territories except Puerto Rico were excluded. The District of Columbia was also included. 
+
+The spread of institutions is very similar despite the institution type.
+
+### Which institution type has a higher average cost of admission in each state? 
+![choropleth1](images/MostExpensiveInstitutionTypebyState.png)
+
+This Geograpphic Choropleth is intended to show the institution type with the highest average cost in each state. Public institutions are blue while private institutions are red. From this we see that across all states that private schools on average are more expensive. We how ever do not know if the difference is statistically significant between public and private institutions.
+
+### How much does the cost of admission vary from state to state among the highest average institution type?
+![choropleth2](images/Avg_Cost_Intensity.png)
+
+The Choropleth shows visualizes the different cost of admissions across all the states. The intensity of the color represents the cost scale. The darker the color the more expensive. We can see that Vermont's private institutions are on the upper end of the scale with the average cost being 56.1538K. North Dakota's average cost of admission for private institutions is 21.80567K.
+
 ### Is there a significant difference in cost for public and private colleges?
 
 During the data exploration for public and private colleges we found a new factor called open admission policy for the colleges. On analyzing we found that 64% of all the colleges in the USA have open admission policy. So we included that factor in our admission cost analysis. These are the findings from our analysis.
