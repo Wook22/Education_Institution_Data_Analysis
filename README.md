@@ -36,9 +36,9 @@ During the data analysis process, we applied a filter to include only columns wi
 *    "control" (CONTROL): Control of the institution (public, private nonprofit, or private for-profit).
 *    "openadmp" (OPENADMP): Flag indicating if the institution has open admission policy (1: yes, 0: no).
 *    "historicalblack_college" (HBCU): Flag indicating if the institution is a historically black college or university (HBCU).
-*    ...
+                                          $$\vdots$$
 *    "percentage_of_agriculture_major" (PCIP01): Percentage of students majoring in agriculture-related fields.
-*    ...
+                                          $\vdots$
 *    "student_count" (UGDS): Total student count at the institution.
 *    "enrollment_proportion_white" (UGDS_WHITE): Proportion of enrolled students who are white.
 *    ...
