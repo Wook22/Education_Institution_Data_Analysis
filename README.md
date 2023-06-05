@@ -97,6 +97,26 @@ During the data analysis process, we applied a filter to include only columns wi
 
 ## Analysis
 
+![geoplot1](images/bokeh_plot1.png)
+
+![geoplot2](images/bokeh_plot2.png)
+
+![barplot](images/barplot.png)
+
+![hypotest](images/hypotest.png)
+
 
 ## Conclusion
 
+
+## Contributors
+
+* Beenish MM : [![GitHub Icon](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)](https://github.com/Beenishmm)
+
+* Christopher Heng : [![GitHub Icon](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)](https://github.com/chris-yujin)
+
+* JongWook Choe : [![GitHub Icon](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)](https://github.com/Wook22)
+
+* Michael Bernstein : [![GitHub Icon](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)](https://github.com/mbernstein421)
+
+* Vidhya Lakshmi : [![GitHub Icon](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)](https://github.com/vidhya67meg)
