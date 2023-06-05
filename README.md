@@ -111,12 +111,9 @@ During the data analysis process, we applied a filter to include only columns wi
 
 ## Contributors
 
-* Beenish MM : [![GitHub Icon]([https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png](https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667))](https://github.com/Beenishmm)
 
-* Christopher Heng : [![GitHub Icon](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)](https://github.com/chris-yujin)
-
-* JongWook Choe : [![GitHub Icon](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)](https://github.com/Wook22)
-
-* Michael Bernstein : [![GitHub Icon](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)](https://github.com/mbernstein421)
-
-* Vidhya Lakshmi : [![GitHub Icon](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)](https://github.com/vidhya67meg)
+* [Beenish MM](https://github.com/Beenishmm)
+* [Christopher Heng](https://github.com/chris-yujin)
+* [JongWook Choe](https://github.com/Wook22)
+* [Michael Bernstein](https://github.com/mbernstein421)
+* [Vidhya Lakshmi](https://github.com/vidhya67meg)
