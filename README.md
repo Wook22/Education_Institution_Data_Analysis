@@ -1,5 +1,5 @@
 # Education Institution Data Analysis
-## What is the socioeconomic status of an average student in US colleges?
+## A Comprehensive Analysis of Admission Cost, Diversity and Academic Offerings
 
 ![school](images/school.jpg)
 
