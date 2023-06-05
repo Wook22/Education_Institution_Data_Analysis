@@ -100,8 +100,10 @@ This shows the top 15 states with collegees in them using a bar chart.
 ![majorbottom](images/major2.png)
 
 ![ethnicity](images/ethnicity.png)
+The ethnicity distribution analysis shows highest enrollment of white 46.7%, black 18.5%, hispanic 19.6, Asian 3.9%, Native American 1.4%, Pacific 0.4%, Mix 3.5%, Non residents 2% and unknown 4%.
 
 ![gender](images/gender.png)
+The pie chart of gender distribution shows highest number of women 64.9% enrolled and men 35.11%
 
 ## Analysis
 
