@@ -154,6 +154,7 @@ Based on the t-test conducted it is concluded that these differences are signifi
 ![barplot](images/Cost.png)
 
 Next, for colleges that have admission requirements we wanted to check if there is any correlation between admission rate and admission cost. After checking and filtering outliers a scatter plot for these two factors was plotted. The correlation was calculated to be -0.2 which shows there might be a negative correlation to cost and admission rate but the number was not significant enough to conclude this theory. 
+
 ![plot](images/CostVsAdmissionRate.png)
 
 ![hypotest](images/hypotest.png)
