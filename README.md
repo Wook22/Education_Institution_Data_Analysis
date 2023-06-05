@@ -1,6 +1,6 @@
 # Education Institution Data Analysis
 <div align="center">
-## "A Comprehensive Analysis of Admission Cost, Diversity and Academic Offerings"
+"A Comprehensive Analysis of Admission Cost, Diversity and Academic Offerings"
 </div>
    
 ![school](images/school.jpg)
