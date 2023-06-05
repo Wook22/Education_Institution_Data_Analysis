@@ -145,16 +145,18 @@ The Choropleth shows visualizes the different cost of admissions across all the 
 
 ![piechart](images/OpenvsNonOpen.png)
 
-During the data exploration for public and private colleges we found a new factor called open admission policy for the colleges. On analyzing we found that 64% of all the colleges in the USA have open admission policy. So we included that factor in our admission cost analysis. These are the findings from our analysis.
+During the data exploration for public and private colleges we found a new factor called open admission policy for the colleges. On analyzing we found that 64% of all the colleges in the USA have open admission policy. So we included that factor in our admission cost analysis. 
+
+![barplot](images/Cost.png)
+
+These are the findings from our analysis.
 The average admission cost of public colleges are lower than private colleges
 Colleges with open admission policy have average admission cost lower than those who do not have open admission policy.
 Based on the t-test conducted it is concluded that these differences are significant.
 
-![barplot](images/Cost.png)
+![plot](images/CostVsAdmissionRate.png)
 
 Next, for colleges that have admission requirements we wanted to check if there is any correlation between admission rate and admission cost. After checking and filtering outliers a scatter plot for these two factors was plotted. The correlation was calculated to be -0.2 which shows there might be a negative correlation to cost and admission rate but the number was not significant enough to conclude this theory. 
-
-![plot](images/CostVsAdmissionRate.png)
 
 ![hypotest](images/hypotest.png)
 
