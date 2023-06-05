@@ -116,7 +116,7 @@ The pie chart of gender distribution shows highest number of women 64.9% enrolle
 
 ![geoplot2](images/plot2.png)
 
-![barplot](images/barplot.png)
+![barplot](images/Cost.png)
 
 ![plot](images/CostVsAdmissionRate.png)
 
