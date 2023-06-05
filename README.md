@@ -36,12 +36,12 @@ During the data analysis process, we applied a filter to include only columns wi
 *    "control" (CONTROL): Control of the institution (public, private nonprofit, or private for-profit).
 *    "openadmp" (OPENADMP): Flag indicating if the institution has open admission policy (1: yes, 0: no).
 *    "historicalblack_college" (HBCU): Flag indicating if the institution is a historically black college or university (HBCU).
-                                          $$\vdots$$
+$$\vdots$$
 *    "percentage_of_agriculture_major" (PCIP01): Percentage of students majoring in agriculture-related fields.
-                                          $\vdots$
+$$\vdots$$
 *    "student_count" (UGDS): Total student count at the institution.
 *    "enrollment_proportion_white" (UGDS_WHITE): Proportion of enrolled students who are white.
-*    ...
+$$\vdots$$
 *    "cost_of_admission" (COSTT4_A): Cost of admission for the institution (average).
 *    "cost_of_admission_p" (COSTT4_P): Cost of admission for the institution (program-specific).
 *    "tuition" (TUITFTE): Average instructional expenditure per full-time equivalent student.
@@ -53,7 +53,7 @@ During the data analysis process, we applied a filter to include only columns wi
 *    "enrollment_percentage_women" (UGDS_WOMEN): Percentage of enrolled students who are female.
 *    "public/private" (SCHTYPE): Indicates if the institution is public or private.
 *    "faculity_ratio_student" (STUFACR): Faculty-to-student ratio.
-*    ...
+$$\vdots$$
 
 
 ## Methodology
