@@ -94,14 +94,23 @@ $$\vdots$$
 ## Visualization
 
 ![top](images/count1.png)
+
 This bar chart shows the top 15 states that have the most colleges in them in an ascending order. We chose to show the top 15 to make the bar chart more visually appealing and to quickly be able to compare it to the lowest 15 states.
+
 ![bottom](images/count2.png)
+
  This bar chart shows the lowest 15 states that have the most colleges in them in a descending order.
+ 
 ![majortop](images/major1.png)
+
+
  This stacked bar chart shows the same data as the top 15 states, but also includes the majors. We can quickly see what the most popular majors are in the states with the most colleges in them. 
 ![majorbottom](images/major2.png)
+
  This is the same chart as above, but now showing the states with the smallest amount of colleges in them. Comparing these two charts together will show us which majors are popular regardless of population size. We also removed outliers from this chart since it was originally showing US territories.  
+ 
 ![ethnicity](images/ethnicity.png)
+
 
 The ethnicity distribution analysis shows highest enrollment of white 46.7% followed by black 18.5%, Hispanic 19.6, Asian 3.9%, Native American 1.4%, Pacific Islanders 0.4%, Mix 3.5%, Non residents 2% and unknown 4%.
 
