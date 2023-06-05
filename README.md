@@ -105,6 +105,11 @@ $$\vdots$$
 
 ![hypotest](images/hypotest.png)
 
+## Conclusion
+
+In our analysis comparing public and private colleges in the United States, we examined factors such as enrollment, tuition fees, graduation rates, student-faculty ratios, and financial aid availability. Specifically, we focused on the relationship between the number of students receiving federal loans and the admission cost, separately for public and private institutions. We found that public colleges demonstrated a strong and significant linear relationship between the number of loan recipients and the admission cost. This suggests that as the number of students receiving federal loans increased, the admission cost tended to follow a predictable pattern. However, in the case of private colleges, the relationship between the number of loan recipients and the admission cost was weaker, indicating that other factors play a more dominant role in determining the cost of admission for private institutions.
+
+To further investigate the difference in admission costs between public and private schools, we conducted an independent t-test. The results of the t-test provided strong evidence against the null hypothesis, indicating a significant difference in the admission costs between the two types of institutions. This suggests that public and private colleges in the United States have distinct cost structures. Prospective students should take this into account when considering college choices and carefully evaluate their financial situation, academic goals, and the overall value provided by public and private colleges. By considering factors such as enrollment, tuition fees, graduation rates, student-faculty ratios, and financial aid availability, individuals can make informed decisions that align with their needs and aspirations, ensuring a fulfilling and successful college experience.
 
 ## Contributors
 
