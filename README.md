@@ -92,7 +92,7 @@ $$\vdots$$
 ## Visualization
 
 ![top](images/count1.png)
-
+This shows the top 15 states with collegees in them using a bar chart. 
 ![bottom](images/count2.png)
 
 ![majortop](images/major1.png)
