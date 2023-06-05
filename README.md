@@ -92,7 +92,9 @@ $$\vdots$$
 ## Visualization
 
 ![top](images/count1.png)
+
 This shows the top 15 states with collegees in them using a bar chart. 
+
 ![bottom](images/count2.png)
 
 ![majortop](images/major1.png)
@@ -101,7 +103,12 @@ This shows the top 15 states with collegees in them using a bar chart.
 
 ![ethnicity](images/ethnicity.png)
 
+The ethnicity distribution analysis shows highest enrollment of white 46.7% followed by black 18.5%, Hispanic 19.6, Asian 3.9%, Native American 1.4%, Pacific Islanders 0.4%, Mix 3.5%, Non residents 2% and unknown 4%.
+
 ![gender](images/gender.png)
+
+The pie chart of gender distribution shows highest number of women 64.9% enrolled whereas enrolled men were 35.11%. 
+
 
 ## Analysis
 
@@ -114,6 +121,10 @@ This shows the top 15 states with collegees in them using a bar chart.
 ![plot](images/CostVsAdmissionRate.png)
 
 ![hypotest](images/hypotest.png)
+
+To gain insights into the distribution of the data, scatter plots and histograms were generated. The scatter plot displayed the admission costs of both populations, while the histograms illustrated the distributions of admission costs for public and private schools separately. The mean admission costs were marked by dashed lines on the histograms.
+
+To assess whether there was a statistically significant difference in the admission costs between public and private schools, an independent t-test was conducted. The resulting p-value from the t-test was found to be very small, indicating strong evidence against the null hypothesis. Therefore, we reject the null hypothesis and conclude that there is a significant difference in the admission costs between public and private schools.
 
 ## Conclusion
 
