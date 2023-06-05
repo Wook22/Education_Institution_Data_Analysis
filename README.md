@@ -111,9 +111,7 @@ This shows the top 15 states with collegees in them using a bar chart.
 
 ![barplot](images/barplot.png)
 
-![linear](images/linear1.png)
-
-![linear](images/linear2.png)
+![plot](images/Cost Vs Admission Rate.png)
 
 ![hypotest](images/hypotest.png)
 
