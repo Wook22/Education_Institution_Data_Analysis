@@ -91,17 +91,29 @@ $$\vdots$$
 
 ## Visualization
 
+![top](images/count1.png)
+
+![bottom](images/count2.png)
+
+![majortop](images/major1.png)
+
+![majorbottom](images/major2.png)
+
 ![ethnicity](images/ethnicity.png)
 
 ![gender](images/gender.png)
 
 ## Analysis
 
-![geoplot1](images/bokeh_plot1.png)
+![geoplot1](images/plot1.png)
 
-![geoplot2](images/bokeh_plot2.png)
+![geoplot2](images/plot2.png)
 
 ![barplot](images/barplot.png)
+
+![linear](images/linear1.png)
+
+![linear](images/linear2.png)
 
 ![hypotest](images/hypotest.png)
 
