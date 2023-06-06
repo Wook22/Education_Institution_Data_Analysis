@@ -11,7 +11,7 @@ The goal of this data analysis project is to compare and analyze public and priv
 
 *Analysis of Public /Private colleges in USA*
 
-* Ethnicity and Gender distribuion
+* Ethnicity and Gender distribution
 
 * Popular field of study
 
