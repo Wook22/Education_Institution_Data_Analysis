@@ -141,6 +141,8 @@ This Geograpphic Choropleth is intended to show the institution type with the hi
 
 The Choropleth shows visualizes the different cost of admissions across all the states. The intensity of the color represents the cost scale. The darker the color the more expensive. We can see that Vermont's private institutions are on the upper end of the scale with the average cost being 56.1538K. North Dakota's average cost of admission for private institutions is 21.80567K.
 
+### Cost of Admission vs. Student Receiving Federal loan
+
 ![linear1](images/linear1.png)
 
 ![linear2](images/linear2.png)
